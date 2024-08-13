@@ -2,7 +2,7 @@
 - 👀 I’m interested in my hobbies
 - 🌱 I’m currently learning python and base of programming
 - 💞️ I’m looking to collaborate with VK, Yandex
-- 📫 How to reach me: on email - kirill14da@gmail.com
+- 📫 How to reach me: on email 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk :)
 
