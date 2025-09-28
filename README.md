@@ -1,7 +1,7 @@
--  Hi, I’m @KirAbr5, beginner in programming 
+-  Hi, I’m Kirill, beginner in programming 
 -  I’m interested in AI and coding
 -  I’m currently learning python, sql and base of programming
--  I’m looking to collaborate with VK, Yandex
+-  I’m looking to work with VK, Yandex
 -  How to reach me: on email -  kirill14da@gmail.com 
 -  Pronouns: he/him 
 
