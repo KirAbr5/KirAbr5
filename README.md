@@ -4,7 +4,7 @@
 -  I’m looking to work with VK, Yandex
 -  How to reach me: on email -  kirill14da@gmail.com 
 -  Pronouns: he/him 
--  My freelance acc: https://kwork.ru/user/Kirill___A
+-  My freelance acc: https://kwork.ru/user/KirillAbr05
 
 
 # 💻 Tech Stack:
